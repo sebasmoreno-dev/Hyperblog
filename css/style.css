@@ -36,22 +36,20 @@ body {
     width: 80%;
     padding: 1em;
     text-align: left;
-    border: 1rem solid #ddd;
+    border: 0.1rem solid #ddd;
     margin: 0 auto;
 }
 #container h1 {
     font-size: 1.6rem;
 
 }
-<<<<<<< HEAD
 #post {
     background: white;
     padding: 1em;
-=======
-#footer {
+}
+ #footer {
     background: #777;
     color: white;
     text-align: center;
     padding: 0.5em;
->>>>>>> footer
 }
